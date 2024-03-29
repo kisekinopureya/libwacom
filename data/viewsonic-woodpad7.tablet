@@ -1,0 +1,13 @@
+[Device]
+Name=ViewSonic WoodPad 7
+ModelName=PF0730-E0WW
+DeviceMatch=usb:0543:e667
+Width=6.4
+Height=4
+IntegratedIn=
+
+[Features]
+Stylus=true
+Reversible=false
+Touch=false
+Buttons=0
